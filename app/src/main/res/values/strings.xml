@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NoiceTracker</string>
+
+    <string name="db_value">%1$.0f dB</string>
+    <string name="value_placeholder">—</string>
+    <string name="measurement_stopped">Pomiar zatrzymany</string>
+    <string name="button_start">Start</string>
+    <string name="button_stop">Stop</string>
+
+    <string name="stat_min">Min</string>
+    <string name="stat_average">Średnia</string>
+    <string name="stat_max">Max</string>
+
+    <string name="level_quiet">Cicho</string>
+    <string name="level_moderate">Umiarkowanie</string>
+    <string name="level_loud">Głośno</string>
+    <string name="level_very_loud">Bardzo głośno</string>
+
+    <string name="error_no_permission">Brak zgody na użycie mikrofonu</string>
+    <string name="error_microphone">Nie udało się uruchomić mikrofonu</string>
+</resources>

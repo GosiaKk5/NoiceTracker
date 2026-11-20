@@ -1,7 +1,7 @@
 # NoiceTracker
 
 ## STATUS PRAC
-PLANOWANIE
+Zaimplemntowane punkty: 1
 
 ## Funkcjonalność
 **Podstawowe funkcjonalności**
